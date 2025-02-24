@@ -1,4 +1,4 @@
-# Sentinel-X
+# Sentine-lX
 
 ## Overview
 SentinelX is a theoretical defensive Python module designed for proactive defense against forensic analysis and counter-hacking attempts. Inspired by the "God's Eye" system from *Fast and Furious*, it serves as an anti-Ramsey shield or provides advanced self-protection in a general context. This project is intended for educational purposes or ethical security research under strictly controlled, authorized conditions.
@@ -29,8 +29,8 @@ Built-in import used: `random`.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Code-Mornarch/Sentinel-X.git
-   cd Sentinel-X
+   git clone https://github.com/Code-Mornarch/Sentine-lX.git
+   cd Sentine-lX
    ```
 2. Install dependencies:
    ```bash
